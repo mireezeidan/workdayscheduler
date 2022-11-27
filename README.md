@@ -16,7 +16,8 @@ My experience creating this webpage was interesting, I was tested with adding an
 
 ## Screenshot
 
-<img width="1470" alt="Screen Shot 2022-11-17 at 11 06 27 AM" src="https://user-images.githubusercontent.com/115853252/202511264-95d10246-bdb6-4e3b-a05b-dc28f89a7195.png">
+<img width="1470" alt="Screen Shot 2022-11-26 at 8 58 05 PM" src="https://user-images.githubusercontent.com/115853252/204117264-8347ca82-8fcc-474d-8978-2e7de838b8ea.png">
+
 
 ## Credits
 
